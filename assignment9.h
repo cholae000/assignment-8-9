@@ -1,5 +1,5 @@
-#ifndef DIPLEVEL1_ZOOM_ONLINE_BANK_H
-#define DIPLEVEL1_ZOOM_ONLINE_BANK_H
+#ifndef ASSIGNMENT_9_H
+#define ASSIGNMENT_9_H
 
 #include "stdio.h"
 #include "stdlib.h"
